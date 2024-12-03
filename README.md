@@ -35,5 +35,8 @@ ACT FINAL
   vm_start.ps1
   - Fes un script que permeti crear una màquina virtual nova amb 8 targetes de xarxa per VirtualBox a Windows
 
+  Act_Final_Script_Ubuntu
+  - Investiga si es pot implementar com amb Windows i genera la versió per GNU/Linux
+
   create_vm
   - Crea un script PowerShell que permeti encendre les màquines virtuals, desar l'estat i aturar-les
