@@ -29,3 +29,11 @@ ACT 8
     
   openports.ps1
   - Script que permeti filtrar per tipus de ports oberts
+
+ACT FINAL
+
+  vm_start.ps1
+  - Fes un script que permeti crear una màquina virtual nova amb 8 targetes de xarxa per VirtualBox a Windows
+
+  create_vm
+  - Crea un script PowerShell que permeti encendre les màquines virtuals, desar l'estat i aturar-les
